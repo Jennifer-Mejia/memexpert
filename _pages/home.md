@@ -3,6 +3,6 @@ layout: single
 permalink: /
 ---
 
-#**__Hello, ChickTech!**__
+#**Hello, ChickTech!**
 
 
