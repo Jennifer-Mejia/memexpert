@@ -4,6 +4,5 @@ permalink: /
 ---
 
 #**__Hello, ChickTech!**__
- :grin:
 
 
